@@ -15,6 +15,18 @@ body {
     flex-basis: calc(33% - 6rem);
 }
 
+.cartao__conteudo {
+    text-align: left;
+}
+
+
+
+
+
+
+
+
+
 
 footer{
     background-color: black;
